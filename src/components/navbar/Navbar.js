@@ -20,7 +20,7 @@ class Navbar extends Component {
                     {MenuItems.map((item, index) => {
                         return (
                             <li key={index}>
-                                <NavLink className={item.cName} to={item.url} activeStyle={{color: '#fb8500'}}>
+                                <NavLink className={item.cName} exact to={item.url} activeStyle={{color: '#fb8500'}}>
                                     {item.title}
                                 </NavLink>
                             </li>
