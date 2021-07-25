@@ -15,15 +15,15 @@ const Home = () => {
                 <h4>Let me introduce myself.</h4>
                 <div>
                     <body className="text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer facilisis felis eu orci bibendum venenatis blandit in mi. Etiam mollis viverra ultrices. Praesent urna ex, volutpat ac vestibulum eget, consectetur eu lorem. Praesent et hendrerit quam. Phasellus in suscipit ante, vel vehicula ipsum. Proin sed tortor nec nisi vehicula elementum sit amet vitae felis. Proin sagittis hendrerit nunc a semper. In venenatis augue auctor metus tincidunt, vitae sagittis turpis bibendum. Vivamus sodales arcu arcu, a pretium lacus rhoncus et. Proin neque sapien, tincidunt at imperdiet sed, finibus ac dui. Nam in dignissim lectus. Curabitur placerat aliquam efficitur. Aliquam sapien dui, convallis vitae turpis ac, tincidunt consequat velit. In vel maximus libero, vitae hendrerit odio. Nulla facilisi. Mauris venenatis, ligula non consequat vehicula, sapien diam rhoncus enim, ac lacinia enim magna quis enim.
+                    Hello! My name is Kirtana Mogili, and let me tell you the story of how I found my interest in Software Engineering.
                     </body>
                     <body className="text">
-                    Nam pharetra scelerisque dapibus. Nam odio turpis, blandit et commodo non, accumsan vitae sapien. Nullam fringilla pharetra est sed auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean leo leo, accumsan ut sem et, consequat dapibus mauris. Sed eu nisi vitae orci posuere consectetur ut vitae dolor. Curabitur ultricies rhoncus massa semper eleifend. Nullam in malesuada diam. Morbi mollis rutrum vestibulum. Etiam dictum nec leo ut gravida. Suspendisse a malesuada eros, nec lobortis libero.
+                    “Karel the Dog” first introduced me to computer science. Karel lives in a grid world instructed by users to move and pick up tennis balls. I became friends with Karel the summer before my senior year of high school. Since I was unable to enroll in the AP Computer Science class, I found the summer assignment for the class and was introduced to Karel through codeHS.com. Thus, my coding journey had begun. I started by making small Java programs as simple as printing “Hello World!” to traversing through a list of data until I started my higher education at the Georgia Institute of Technology where I was exposed to a multiplex of resources. I learned from my peers who came from all over the world holding similar goals and aspirations as me. With these new connections, I participated in multiple hackathons applying my coding skills to complete challenges, joined a programming team learning new data analysis techniques, and participate in Bits of Good, an organization that partners with local non-profits to volunteer technical resources such as web development.
                     </body>
                     <body className="text">
-                    Ut luctus et felis nec pretium. Sed nibh massa, euismod vitae posuere eget, vehicula sit amet lorem. Sed porttitor magna nisi, sit amet mattis nunc ultrices nec. Suspendisse eleifend pellentesque quam, quis porttitor elit auctor in. Sed eu ligula feugiat, hendrerit justo a, mattis quam. Mauris rhoncus tortor purus, at dapibus ligula fermentum sit amet. Suspendisse ullamcorper convallis nunc eu fermentum. Donec a nulla a elit sollicitudin finibus et sit amet sem. Etiam vitae neque non mauris auctor posuere. Sed suscipit vitae turpis at venenatis. Etiam iaculis turpis et lacinia dignissim.
+                    I continue to expand my knowledge in computer science by experimenting with new technologies and implementing them in personal projects.
                     </body>
-                    <img></img>
+                    <img alt="Profile" src="profile_pic.jpg" className="profilepic"></img>
                 </div>
             </div>
         </div>
