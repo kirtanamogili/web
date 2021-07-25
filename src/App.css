@@ -92,3 +92,9 @@ h4 {
 body {
   padding-bottom: 15px;
 }
+
+.profilepic {
+  float: left;
+  height: 400px;
+  width: 300px;
+}
