@@ -4,7 +4,7 @@ import SocialButtonsPage from '../../components/SocialIcons';
 const Home = () => {
     return (
         <div>
-            <header>
+            <header className="header-home">
                 <h1 className="name">Kirtana Mogili</h1>
                 <h2>Student. Software Engineer. Dancer.</h2>
                 <SocialButtonsPage/>

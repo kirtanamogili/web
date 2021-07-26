@@ -5,11 +5,7 @@
   font-family: 'Montserrat', sans-serif;
 }
 
-.App {
-  padding-bottom: 50px;
-}
-
-header {
+.header-home {
   background: #023047;
   padding: 10vmin 1rem;
   padding-bottom: 7rem;
@@ -18,7 +14,7 @@ header {
   text-shadow: 2px 2px 4px #000000;
 }
 
-header h1 {
+.header-home h1 {
   margin: 0px;
   padding-top: 40px;
   padding-bottom: 0px;
@@ -31,7 +27,7 @@ header h1 {
   letter-spacing: 1.5px;
 }
 
-header h2 {
+.header-home h2 {
   font-weight: lighter;
   margin-bottom: 50px;
   letter-spacing: 1px;
@@ -91,39 +87,90 @@ h4 {
   max-width: 900px;
   margin-left: auto;
   margin-right: auto;
-}
-
-.text {
-  padding-right: 20px;
+  padding-bottom: 75px;
 }
 
 .frame {
-  width: 300px;
-  height: 300px;
-  border: 3px solid #555b6e;
-  background: rgb(255, 255, 255);
-  margin: auto;
-  padding: 15px 15px;
+  width: 275px;
+  height: 275px;
+  border: 2px solid #219dbca6;
+  margin: 10px;
+  padding: 17px 17px;
+  border-radius: 10px;
+  margin-left: 30px;
+}
+
+.frame:hover {
+  padding: 12px 12px;
+  transition: all 0.5s ease;
 }
 
 .profilepic {
-  max-width:300px;
+  max-width: 275px;
+  border-radius: 10px;
+  filter: grayscale(90%);
+}
+
+.profilepic:hover {
+  filter: none;
+  transition: all 0.5s ease;
 }
 
 .weblink:link {
-  color: #fb8500;
+  color: #555b6e;
   text-decoration: none;
 }
 
 .weblink:hover {
-  font-weight:bold;
+  font-weight: bold;
   text-decoration: none;
 }
 
 .weblink:visited {
-  color: #fb8500;
+  color: #555b6e;
 }
 
 .weblink:active {
   text-decoration: none;
+}
+
+.header-contact {
+  padding-bottom: 20rem;
+  background: #023047;
+  text-align: center;
+  color: #ffffff !important;
+  padding-top: 6rem;
+  overflow: hidden !important;
+}
+
+.contact-body {
+  margin-left: 25rem;
+  margin-right: 25rem;
+  font-size: larger;
+}
+
+.contact {
+	background-color: #ffffff00;
+	border-radius: 6px;
+	border: 1px solid #ffffff;
+	display: inline-block;
+	cursor: pointer;
+	color: #ffffff;
+	font-size: 15px;
+	padding: 17px 24px;
+  text-decoration: none;
+  margin: 0;
+  align-self: center;
+  box-shadow: 2px 2px 2px #011824;
+  margin-top: 1rem;
+}
+
+.contact:hover {
+	background-color: #219dbcaf;
+  color: rgb(255, 255, 255);
+  transition: all 0.5s ease;
+}
+
+.header-contact h4 {
+  color: #ffffff !important;
 }
