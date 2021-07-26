@@ -1,4 +1,5 @@
 import React from 'react';
+import Timeline from '../timeline/Timeline';
 
 const Resume = () => {
     return (
@@ -7,7 +8,7 @@ const Resume = () => {
             <hr></hr>
             <h4>More of my credentials.</h4>
             <div>
-                <iframe title="resume" href="../../public/Resume.pdf" width="100%" height="100%"></iframe>
+                <Timeline/>
             </div>
         </div>
     )
