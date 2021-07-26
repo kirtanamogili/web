@@ -93,10 +93,10 @@ h4 {
 .frame {
   width: 275px;
   height: 275px;
-  border: 2px solid #219dbca6;
+  border: 2px solid #555b6ea1;
   margin: 10px;
   padding: 17px 17px;
-  border-radius: 10px;
+  border-radius: 6px;
   margin-left: 30px;
 }
 
@@ -107,7 +107,7 @@ h4 {
 
 .profilepic {
   max-width: 275px;
-  border-radius: 10px;
+  border-radius: 6px;
   filter: grayscale(90%);
 }
 
@@ -117,29 +117,24 @@ h4 {
 }
 
 .weblink:link {
-  color: #555b6e;
-  text-decoration: none;
+  color: #136f86;
+  text-shadow: #023047;
 }
 
 .weblink:hover {
   font-weight: bold;
-  text-decoration: none;
 }
 
 .weblink:visited {
-  color: #555b6e;
-}
-
-.weblink:active {
-  text-decoration: none;
+  color: #136f86;
 }
 
 .header-contact {
   padding-bottom: 20rem;
+  padding-top: 6rem;
   background: #023047;
   text-align: center;
   color: #ffffff !important;
-  padding-top: 6rem;
   overflow: hidden !important;
 }
 
