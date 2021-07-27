@@ -46,7 +46,7 @@ export default function SimpleCard() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button href="https://github.com/nevingilbert/NiteLite" size="small">Learn More</Button>
+        <Button href="https://github.com/nevingilbert/NiteLite" target="_blank" size="small">Learn More</Button>
       </CardActions>
     </Card>
 
@@ -66,7 +66,7 @@ export default function SimpleCard() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button href="http://educast.library.gatech.edu/" size="small">Learn More</Button>
+        <Button href="http://educast.library.gatech.edu/" target="_blank" size="small">Learn More</Button>
       </CardActions>
     </Card>
 
@@ -86,7 +86,7 @@ export default function SimpleCard() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button href="https://github.gatech.edu/aghosh74/Farm" size="small">Learn More</Button>
+        <Button href="https://github.gatech.edu/aghosh74/Farm" target="_blank" size="small">Learn More</Button>
       </CardActions>
     </Card>
 
@@ -110,7 +110,7 @@ export default function SimpleCard() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button href="https://github.com/kirtanamogili/web" size="small">Learn More</Button>
+        <Button href="https://github.com/kirtanamogili/web" target="_blank" size="small">Learn More</Button>
       </CardActions>
     </Card>
     </div>
