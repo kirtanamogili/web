@@ -57,7 +57,7 @@ class Timeline extends Component {
                             <span class="flag">Georgia Tech</span>
                             <span class="time-wrapper"><span class="time">Aug 2019 - Present</span></span>
                         </div>
-                        <div class="desc">I am a third-year Computer Science Bachelor's student at the Georgia Institute of Technology with concentrations in Intelligence and Information Internetworks.</div>
+                        <div class="desc">I am a third-year Computer Science Bachelor's student at the Georgia Institute of Technology with concentrations in Intelligence and Information Internetworks. I have a 3.83/4.00 GPA, and I am a dean's list honoree.</div>
                     </div>
                 </li>
                 <li>

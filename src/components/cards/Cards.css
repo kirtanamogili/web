@@ -1,0 +1,27 @@
+.root {
+    min-width: 280px;
+    max-width: 280px;
+    color: #023047 !important;
+    background-color: white !important;
+    display: inline-block;
+    justify-content: center;
+    margin: 10px;
+    word-wrap: break-word;
+}
+
+.bullet {
+    margin: 0 2px;
+    transform: scale(0.8);
+    color: #219ebc !important;
+}
+
+.title {
+    font-size: 14;
+    color: #219ebc !important;
+}
+
+.pos {
+    margin-bottom: 12;
+    display: inline-block;
+    color: #219ebc !important;
+}
